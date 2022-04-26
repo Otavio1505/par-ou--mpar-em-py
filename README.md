@@ -6,7 +6,11 @@ A ideia do programa foi sugerida por um professor, e conforme os ensinamentos qu
 
 
 # Como funciona?
-Primeiramente, será perguntado ao usuário se ele escolherá Par ou ímpar, basta ser digitado: 'P' ou 'I' no teclado para a escolha ser sucedida, o computador herdará a posição adversa ao usuário de forma automática. Após este passo é necessário o import da biblioteca: 'random', que irá sortear 1 número de 1 a 10, que será atribuído ao computador. Em seguida, o usuário digitará um número de sua escolha entre 0 a 10.
+Primeiramente, será perguntado ao usuário se ele escolherá Par ou ímpar, basta ser digitado: 'P' ou 'I' no teclado para a escolha ser sucedida, o computador herdará a posição adversa ao usuário de forma automática, caso o usuário não digite 'P' ou 'I', o input entrará em repetição, não havendo assim o prosseguimento do programa.
+
+![a](https://user-images.githubusercontent.com/84475339/165332047-bcc8283b-2066-4413-b50f-e10e1df5a715.png)
+
+Após este passo é necessário o import da biblioteca: 'random', que irá sortear 1 número de 1 a 10, que será atribuído ao computador. Em seguida, o usuário digitará um número de sua escolha entre 0 a 10.
 
 ![a](https://user-images.githubusercontent.com/84475339/165328280-8668c390-57c1-400b-b6eb-787155e976ca.png)
 
