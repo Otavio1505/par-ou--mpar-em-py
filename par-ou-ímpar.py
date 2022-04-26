@@ -15,8 +15,8 @@ while True:
             pi = input('Par ou ímpar?[P/I] ').upper()
     user = int(input('Escolha um número: '))
     val = ran + user
-    if user > 10:
-        while user > 10:
+    if user > 10 or user < 0:
+        while user > 10 or user < 0:
             print(f'Digite um número entre 0 a 10.')
             user = int(input('Escolha um número: '))
     if pi == 'P':
