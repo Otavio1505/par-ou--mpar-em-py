@@ -14,7 +14,20 @@ Caso insira um número fora deste alcance, será retornado a mensagem: 'Digite u
 
 ![a](https://user-images.githubusercontent.com/84475339/165328765-04edf622-b78b-479d-bf30-233740ed5dfd.png)
 
-Conforme o atendimento das regras, o programa dará prosseguimento, na qual será retornado o valor escolhido pelo usuário, o valor sorteado pelo computador e por meio da soma entre os dois valores, será impresso o ganhador. Caso o usuário saia vencedor, o programa dará prosseguimento, gerando um novo jogo e computando as vitórias consecutivas do usuário, se encerrando apenas após a derrota do mesmo.
+Conforme o atendimento das regras, o programa dará prosseguimento, na qual será retornado o valor escolhido pelo usuário, o valor sorteado pelo computador e por meio da soma entre os dois valores, será impresso o ganhador. 
+
+![a](https://user-images.githubusercontent.com/84475339/165329153-e38f2991-14d7-4c7b-b2e9-2ad3c94a8131.png)
+
+
+Caso o usuário saia vencedor, o programa dará prosseguimento, gerando um novo jogo e computando as vitórias consecutivas do usuário.
+
+
+![a](https://user-images.githubusercontent.com/84475339/165329836-b40aea13-4bd5-4212-8308-e18a80ceb652.png)
+
+
+O programa se encerra apenas após a derrota do mesmo.
+
+![a](https://user-images.githubusercontent.com/84475339/165330035-8a4de6d9-ac35-4f90-89a7-af8939dd1dff.png)
 
 
 
