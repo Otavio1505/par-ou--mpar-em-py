@@ -2,7 +2,7 @@
 Programa capaz de simular um: 'par ou ímpar' com o usuário.
 
 # Sobre o Projeto
-A ideia do programa foi sugerida por um professor, e conforme os ensinamentos que obtive em Pyhon, implementei novas funcionalidades e o aprimorei.
+A ideia do programa foi sugerida por um professor, e conforme os ensinamentos que obtive em Python, implementei novas funcionalidades e o aprimorei.
 
 
 # Como funciona?
