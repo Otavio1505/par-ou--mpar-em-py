@@ -14,7 +14,7 @@ Com o prosseguimento correto do programa, é feito o uso do import da biblioteca
 
 ![a](https://user-images.githubusercontent.com/84475339/165328280-8668c390-57c1-400b-b6eb-787155e976ca.png)
 
-Caso insira um número fora deste alcance, será retornado a mensagem: 'Digite um número entre 0 a 10.', não podendo dar prosseguimento ao programa até que a regra seja atendida. 
+Caso insira um número fora deste alcance, será retornado a mensagem: "Digite um número entre 0 a 10". Não podendo dar prosseguimento ao programa até que a regra seja atendida. 
 
 ![a](https://user-images.githubusercontent.com/84475339/165328765-04edf622-b78b-479d-bf30-233740ed5dfd.png)
 
