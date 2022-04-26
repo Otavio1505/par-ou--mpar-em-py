@@ -19,6 +19,7 @@ while True:
         while user > 10 or user < 0:
             print(f'Digite um número entre 0 a 10.')
             user = int(input('Escolha um número: '))
+    val = ran + user        
     if pi == 'P':
         print(f'Você escolheu: {user}')
         print(f'O computador escolheu: {ran}'+ Style.RESET_ALL)
