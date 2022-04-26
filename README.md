@@ -25,10 +25,13 @@ Caso o usuário saia vencedor, o programa dará prosseguimento, gerando um novo 
 ![a](https://user-images.githubusercontent.com/84475339/165329836-b40aea13-4bd5-4212-8308-e18a80ceb652.png)
 
 
-O programa se encerra apenas após a derrota do mesmo.
+O programa se encerra apenas após a derrota do usuário.
 
 ![a](https://user-images.githubusercontent.com/84475339/165330035-8a4de6d9-ac35-4f90-89a7-af8939dd1dff.png)
 
+
+# Autor
+Otávio Moraes Braga
 
 
 
